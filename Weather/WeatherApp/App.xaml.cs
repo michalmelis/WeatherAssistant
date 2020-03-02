@@ -20,6 +20,7 @@ namespace WeatherApp
             // Handle when your app starts
         }
 
+        
         protected override void OnSleep()
         {
             // Handle when your app sleeps
