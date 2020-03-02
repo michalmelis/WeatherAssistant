@@ -12,6 +12,7 @@ namespace WeatherApp
             InitializeComponent();
 
             MainPage = new AppShell();
+         
         }
 
         protected override void OnStart()
